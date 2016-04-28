@@ -4,7 +4,7 @@ pubnub python sdk version : 3.7.6
 Phantomjs reqires: version 2.1.1
 
 Usage: 
-phantomjs reddit.js post_url (up|down) 
+Set pubnub keys and send control message examples from the debug console to your voting modules. 
 
 Example: 
 
